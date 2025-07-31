@@ -1,1 +1,3 @@
-![905f1502d788bb2aecb8f93610c5933b](https://github.com/user-attachments/assets/2a780594-0433-4d5a-b328-5782b31ec812)
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://i.pinimg.com/originals/90/5f/15/905f1502d788bb2aecb8f93610c5933b.gif)" />
+</p>
