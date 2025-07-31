@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b1/46/de/b146de1718b865c5cdcff68d6e8f5378.gif"/>
+  <img src="https://media1.tenor.com/m/ql3AtyTJOBsAAAAd/obito-uchiha-kakashi-hatake.gif"/>
 </p>
