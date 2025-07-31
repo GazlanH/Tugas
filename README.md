@@ -1,3 +1,3 @@
-<a align="center">
+<p align="center">
   <img src="https://i.pinimg.com/originals/90/5f/15/905f1502d788bb2aecb8f93610c5933b.gif"/>
-</a>
+</p>
